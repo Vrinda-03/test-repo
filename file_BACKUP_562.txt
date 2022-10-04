@@ -1,0 +1,9 @@
+Hello, welcome to git session
+<<<<<<< HEAD
+this is a practice session for file commands
+
+Developer B
+
+=======
+Developer A 
+>>>>>>> branch1

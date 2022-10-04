@@ -1,4 +1,2 @@
 Hello, welcome to git session
-Developer B
 Developer A 
-
