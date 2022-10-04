@@ -1,3 +1,2 @@
 Hello, welcome to git session
-this is a practice session for file commands
-
+Developer A 
